@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995960853428",
+    "project_id": "workshop-a32ad",
+    "storage_bucket": "workshop-a32ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995960853428:android:7b865eeb6bc821ef4958e1",
+        "android_client_info": {
+          "package_name": "com.example.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995960853428-ipv9fvpoeedq78as4l2ko15fn2jf8gb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tdXNTSwnen7VD5lL98LWrqkawMFXDjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995960853428-ipv9fvpoeedq78as4l2ko15fn2jf8gb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
